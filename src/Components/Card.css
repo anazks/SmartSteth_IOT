@@ -1,0 +1,21 @@
+.Card{
+    width: 70%;
+    height: 170px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: auto;
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: white;
+    /* background-color: rgb(91, 167, 167); */
+}
+.loud{
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+    background-size: cover;
+}
+.level{
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+    background-size: cover;
+}
